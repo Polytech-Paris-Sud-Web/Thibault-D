@@ -1,0 +1,22 @@
+{
+  "articles": [
+    {
+      "title": "Lorem Ipsum",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede. Praesent blandit odio eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh. Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non diam sodales hendrerit. ",
+      "authors": " Cicéron",
+      "id": 3
+    },
+    {
+      "title": "Confinement : peut-on séduire sans changer de slip ?",
+      "content": "Six semaines de confinement, nous voici revenus à l’état de nature : 38 % des femmes laissent repousser leurs poils (selon une enquête Bic/OpinionWay publiée la semaine dernière), et certaines abandonnent le soutien-gorge. Pendant ce temps, les hommes réinventent la mode masculine grâce au fameux « jogging-costume-cravate ». Les partisans du verre à moitié plein y verront une reformulation créative des codes de la séduction. Les adeptes du verre à moitié vide commenceront à creuser la tombe de notre sex-appeal, et de la civilisation tout entière.\n\nLisez-vous cette chronique en pyjama ? Très bien : je l’écris moi-même en pyjama. Inutile de culpabiliser : nous en sommes toutes et tous au point où l’après-shampoing devient un objet de curiosité. Repasser ses chemises ? Séduire ? Mais pour quoi faire, au juste ? Ce n’est pas comme si le partenaire allait se déplacer à plus d’un kilomètre…",
+      "authors": "Maïa Mazaurette",
+      "id": 4
+    },
+    {
+      "title": "Morbihan : Pluvigner fait la \"fête du slip\" le samedi 1er juin",
+      "content": "A Pluvigner, dans le Morbihan, l'association des commerçants, industriels et artisans, lance ce samedi 1er juin \"la fête du slip\". Une idée un peu folle au départ mais pour la bonne cause. \n\nLes habitants de cette commune de 7.500 habitants sont invités à donner un sous-vêtement propre : un slip, un caleçon, maillot de bain ou soutien-gorge, ainsi qu'un euro au profit de la Ligue contre le cancer. Une douzaine de points de collecte sont disséminés un peu partout dans la ville.\nUne nuisette à gagner\n\nEn septembre, les sous-vêtements récoltés seront exposés dans les rues de Pluvigner sous la forme de guirlandes. Une tombola sera organisée à la fin de cette fête du slip. Une nuisette sur mesure réalisée par Thom de Corbie, un styliste sacré meilleur ouvrier de France et résidant de Pluvigner sera mise en jeu.",
+      "authors": "Benjamin Fontaine, François Rivaud, France Bleu Armorique",
+      "id": 5
+    }
+  ]
+}
