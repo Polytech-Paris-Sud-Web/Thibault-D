@@ -1,0 +1,8 @@
+<p>article-search works!</p>
+
+<input (keyup)="onKey($event)">
+<button (click)="search()">Search!</button>
+
+<div *ngFor="let article of this.results() | async">
+    <app-article [article]="article" (deletedArticle)="delete($event)"></app-article>
+</div>
